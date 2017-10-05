@@ -1,5 +1,5 @@
 # Random Quote Generator v1.0
-A Simple application that generates random, well-known quotes with only one option to generate a new random quote.
+A Simple application that generates random, well-known quotes.
 
 ## Todo
 - Add an option to get back the previously generated quote (A stack can be used for this).
